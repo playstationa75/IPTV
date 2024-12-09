@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/110px-Kanal_D_logo.svg.png",Kanal D 1080P 
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/110px-Kanal_D_logo.svg.png",Kanal D 720P 
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+
+#EXTINF:2, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png",TV8 1080P
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:3, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png",TV8 720P
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+
+#EXTINF:4, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png",TV8 480P
+https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
+
+#EXTINF:5, tvg-logo="https://th.bing.com/th/id/OIP.dOl2HSjWk1iywnp3BWTWfwHaCT?rs=1&pid=ImgDetMain",DMAX 720P
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
